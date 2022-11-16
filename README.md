@@ -5,6 +5,8 @@
 
 고객사 니즈에 맞는 커스텀 이메일 템플릿을 제공하기 위해 연습해보았습니다.  
 
++ 인덱스를 추가 예정
+
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a71ee03b-079c-4a96-9954-ec10cc9dcb10/Untitled.png)
 
 ## 이메일 템플릿 퍼블리싱 간 참고사항
